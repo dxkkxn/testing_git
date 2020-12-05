@@ -1,4 +1,6 @@
 modification de mon pc
+
+modification depuis github
 # Initiate dir as git
 git init
 #Commit changes
