@@ -1,3 +1,4 @@
+modification depuis github
 # Initiate dir as git
 git init
 #Commit changes
